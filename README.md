@@ -229,7 +229,14 @@ TODO: подумать над структурой
 
 * [Ruby under a microscope](http://patshaughnessy.net/ruby-under-a-microscope) (Pat Shaughnessy)
 * [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
-
+* [Eloquent Ruby] (http://www.goodreads.com/book/show/9364729-eloquent-ruby) (Russ Olsen)
+* [Ruby Science] (http://www.goodreads.com/book/show/14438307-clean-ruby) ()
+* [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
+* [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
+* [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
+* [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
+* [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
+* [Ruby Science] (https://gumroad.com/l/ruby-science) (thoughtbot)
 ## Базы данных
 
 * [Оптимизация баз данных](http://www.ozon.ru/context/detail/id/1685709/) (Деннис Шаша, Филипп Бонне)
